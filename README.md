@@ -8,7 +8,7 @@
 
 - **Mood Tracking with Emojis** – Select an emoji that represents your current mood.
 - **Add Notes** – Write daily notes or thoughts.
-- 🗑**Delete Notes** – Remove saved notes easily.
+- **Delete Notes** – Remove saved notes easily.
 - **Modern UI** – Built with Tailwind CSS for responsive design.
 - **Timestamps** – Notes are saved with the current date.
 -**Routing** – Navigate between Home and Saved Notes pages using React Router.
